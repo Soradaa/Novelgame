@@ -1,6 +1,3 @@
-<script src="https://cdn.jsdelivr.net/gh/kitao/pyxel/wasm/pyxel.js"></script>
-<pyxel-run script="Novel Game.py"></pyxel-run>
-
 import pyxel
 
 class SceneManager:
